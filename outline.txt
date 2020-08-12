@@ -1,0 +1,16 @@
+Outline for Portfolio 
+
+Things I need: 
+    -Header
+    -Name
+    -Picture
+    -Link with your name 
+    -About Section
+    -Contact Section
+    -Project Section
+    -Skills section?
+
+Look into:
+    -Theme
+    -Interactive landing page?
+    -Styling outlook
